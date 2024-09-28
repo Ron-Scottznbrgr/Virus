@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterEclipse_NoAnimate
+  m_Shader: {fileID: -6465566751694194690, guid: 7e30e6b487c7cd745a0cc1bbb7d5da19,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_6A4CD0B5: 5
+    - Vector1_84504DC3: 1
+    - Vector1_88690604: 0.1
+    - Vector1_9198659C: 5
+    - Vector1_EA068009: 1
+    m_Colors:
+    - Color_557CDFE8: {r: 0.1254902, g: 0.43529415, b: 0.86666673, a: 0}
+    - Color_89854505: {r: 0.4293193, g: 2.062827, b: 2.450261, a: 0}
